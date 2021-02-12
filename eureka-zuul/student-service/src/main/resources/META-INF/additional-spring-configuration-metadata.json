@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "springdog.packages-to-scan",
+      "type": "java.lang.String",
+      "description": "Description for springdog.packages-to-scan."
+    },
+    {
+      "name": "info.app.name",
+      "type": "java.lang.String",
+      "description": "Description for info.app.name."
+    }
+  ] }

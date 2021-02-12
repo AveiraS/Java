@@ -1,0 +1,11 @@
+
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: java-stream
+      kafka:
+        binder:
+          brokers: localhost
